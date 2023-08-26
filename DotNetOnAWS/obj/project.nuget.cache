@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hr9a7TyXxayxNqFBn1aqrcU3xuopTv3ENlD50/w3zE3EBo3N75tUN7GAZ1YD6+J2azA4Mgc9Gn41wECEpbL5Vg==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\DotNetOnAWS\\DotNetOnAWS\\DotNetOnAWS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\7.0.10\\microsoft.netcore.app.runtime.linux-x64.7.0.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\7.0.10\\microsoft.aspnetcore.app.runtime.linux-x64.7.0.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\7.0.10\\microsoft.netcore.app.host.linux-x64.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
