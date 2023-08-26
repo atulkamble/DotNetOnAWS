@@ -3,7 +3,7 @@ Test &amp; Deploy DotNet App on AWS
 
 Confirmed stack: http://dotnetonaws-dev.eba-6pmrbcah.us-east-1.elasticbeanstalk.com/
 
-EC2, AWS CloudFormation, elastic beanstock
+EC2, AWS CloudFormation, Amazon Elastic Beanstalk
 
 - Created depolyment zip bundle
 Creating Dotnet Publish Zip file...
