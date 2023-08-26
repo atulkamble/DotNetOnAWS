@@ -3,8 +3,10 @@ Test &amp; Deploy DotNet App on AWS
 
 Confirmed stack: http://dotnetonaws-dev.eba-6pmrbcah.us-east-1.elasticbeanstalk.com/
 
+EC2, AWS CloudFormation, Amazon Elastic Beanstalk
+
 - Created depolyment zip bundle
-- Creating Dotnet Publish Zip file...
+Creating Dotnet Publish Zip file...
 Using self contained publish since AWS Elastic Beanstalk does not currently have .NET 7 preinstalled
 MSBuild version 17.6.10+2679cf5a9 for .NET
   Determining projects to restore...
