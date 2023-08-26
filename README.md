@@ -3,7 +3,7 @@
 
 Confirmed stack: http://dotnetonaws-dev.eba-6pmrbcah.us-east-1.elasticbeanstalk.com/
 
-EC2, AWS CloudFormation, Amazon Elastic Beanstalk
+EC2, S3:Buckets, AWS CloudFormation, Amazon Elastic Beanstalk
 
 - Created depolyment zip bundle
 Creating Dotnet Publish Zip file...
