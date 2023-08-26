@@ -1,5 +1,5 @@
 # DotNetOnAWS
-Test &amp; Deploy DotNet App on AWS
+published as ASP.NET Core App to AWS Elastic Beanstalk on Linux
 
 Confirmed stack: http://dotnetonaws-dev.eba-6pmrbcah.us-east-1.elasticbeanstalk.com/
 
