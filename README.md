@@ -1,8 +1,16 @@
 # DotNetOnAWS
 ## Publish as ASP.NET Core App to AWS Elastic Beanstalk on Linux
+To successfully publish .NET applications to an AWS service, install the following to your local device:
+## Prerequisites
 
-Confirmed stack: http://dotnetonaws-dev.eba-6pmrbcah.us-east-1.elasticbeanstalk.com/
+1. .NET Core 3.1+(which includes .NET5 and .NET6): https://dotnet.microsoft.com/en-us/download
+2. Node.js 14.x or later version: Node.js is required to run AWS Cloud Development Kit (AWS CDK). https://nodejs.org/en/download
+3. (Optional) Docker is used when deploying to a container-based service such as Amazon ECS. https://docs.docker.com/get-docker/
 
+# Confirmed Stack
+http://dotnetonaws-dev.eba-6pmrbcah.us-east-1.elasticbeanstalk.com/
+
+# Services
 EC2, IAM (Access key, secret access key, S3:Buckets(policy*), AWS CloudFormation, Amazon Elastic Beanstalk
 
 - Created depolyment zip bundle
