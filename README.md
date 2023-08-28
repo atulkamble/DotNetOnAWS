@@ -1,5 +1,5 @@
 # DotNet App On AWS
-## Publish as ASP.NET Core App to AWS Elastic Beanstalk on Linux
+## Publish ASP.NET Core Docker App to AWS Elastic Beanstalk on Linux
 To successfully publish .NET applications to an AWS service, install the following to your local device:
 ## Prerequisites
 
