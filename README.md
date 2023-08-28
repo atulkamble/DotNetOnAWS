@@ -13,6 +13,41 @@ http://dotnetonaws-dev.eba-6pmrbcah.us-east-1.elasticbeanstalk.com/
 # Services
 EC2, IAM (Access key, secret access key, S3:Buckets(policy*), AWS CloudFormation, Amazon Elastic Beanstalk
 
+# Task: Launching a dot net code website (in docker) on elastic baeanstalk (linux environment)
+
+Prerequisite Softwares/Setting : Github Desktop, Visual Studio 2022*, github
+Root Account, User Account
+Through IAM Service create user account, set administrator policy
+
+Follow steps >>
+
+1) Creating Repo Github
+2) Open Github Desktop-Locate Repository
+3) Open Visual Studio 2022 
+4) Create a Project
+5) Select for ASP. Net Core WebApp
+6) Enter the Project (Docker Setting, Prerequisite Docker installed on your system)
+7) Build the code
+8) Check Browser tab (WebApp willl be launched)
+9) Sign in to AWS root acoount | Download .csv credentials
+10) Sign in to AWS user account.
+11) Configure AWS Toolkit for Visual Studio
+12) Create a profile| upload csv file (Manually Edit)
+13) Publish to AWS
+14) Wait for process to complete | Check URL
+15) WebApp hosted Sucessfully
+
+Termination of Resources
+
+Terminate Cloudformation, EC2, S3 from user accounts
+
+
+Tip: Note down Access Key/Secret Access Key from User Account
+Access Key: AKIAUTJDIQ3DFO33W7MV
+Secret Access Key: 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
+
+# Backgroud Deployment
+
 - Created depolyment zip bundle
 Creating Dotnet Publish Zip file...
 Using self contained publish since AWS Elastic Beanstalk does not currently have .NET 7 preinstalled
